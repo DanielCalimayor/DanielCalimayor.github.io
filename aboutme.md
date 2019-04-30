@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Scientist that solves data, and real world problems.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Daniel Calimayor. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am an aspiring Data Scientist
+- Working on learning the most out of Lambda School
+- Play many various instruments, including production
+- I love exercising such as lifting weights
 
 What else do you need?
 
