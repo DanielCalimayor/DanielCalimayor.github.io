@@ -1,16 +1,20 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: UFO Sightings
+subtitle: Uknown Flying Object Sightings
+gh-repo: danielcalimayor/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+#You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice #webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - #it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**Here is some bold text**
+**UFO Sightings by location(US)**
+<div>
+    <a href="https://plot.ly/~DanlOl12/0/?share_key=ghT7MexI76Ndgno77kosoI" target="_blank" title="d3-bubble-map-populations" style="display: block; text-align: center;"><img src="https://plot.ly/~DanlOl12/0.png?share_key=ghT7MexI76Ndgno77kosoI" alt="d3-bubble-map-populations" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="DanlOl12:0" sharekey-plotly="ghT7MexI76Ndgno77kosoI" src="https://plot.ly/embed.js" async></script>
+</div>
 
 ## Here is a secondary heading
 
